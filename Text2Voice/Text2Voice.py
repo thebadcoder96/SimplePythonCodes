@@ -8,9 +8,9 @@ crate="My voice rate is: " + str(engine.getProperty('rate')) + ". Would you like
 print(crate)
 engine.say(crate)
 engine.runAndWait()
-inp=input()
+inp=input().lower()
 
-if inp=='Yes' or inp=='yes':
+if inp=='yes':
     print("Please enter the new voice rate: ")
     engine.say("Please enter the new voice rate: ")
     engine.runAndWait()
@@ -21,9 +21,9 @@ cvoice="Would you like to change the gender of my voice?"
 print(cvoice)
 engine.say(cvoice)
 engine.runAndWait()
-inp=input()
+inp=input().lower()
 
-if inp=='Yes' or inp=='yes':
+if inp=='yes':
     engine.setProperty('voice', engine.getProperty('voices')[1].id)
 
 
