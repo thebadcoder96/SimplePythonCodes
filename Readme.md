@@ -10,3 +10,5 @@ Here I will be trying out some fun, interesting and easy-to-understand codes tha
     Using PRAW, a simple library for using the Reddit API, to make a reddit bot that replies to a word or phrase. Please refer the [Readme file](https://github.com/thebadcoder96/SimplePythonCodes/blob/master/RedditBot/Readme.md) in the folder for more information. Code in the [*CatBot.py*](RedditBot/CatBot.py) file.
 - #### **AutoInsta** 
     Automating liking, commenting and following people/posts on instagram as per given tags. Please refer the [Readme file](https://github.com/thebadcoder96/SimplePythonCodes/blob/master/AutoInsta/Readme.md) for more information on how to work it. Code in the [*Insta.py*](AutoInsta/Insta.py) file.  
+- #### **BarChartRace** 
+   Create animated Bar Chart races to analyze over time periods. I used a NYPD dataset Code in the [*NYPDShooting.py*](AutoInsta/NYPDShooting.py) and [*UrbanPopulation.py*](AutoInsta/UrbanPopulation.py) files.  
