@@ -11,4 +11,4 @@ Here I will be trying out some fun, interesting and easy-to-understand codes tha
 - #### **AutoInsta** 
     Automating liking, commenting and following people/posts on instagram as per given tags. Please refer the [Readme file](https://github.com/thebadcoder96/SimplePythonCodes/blob/master/AutoInsta/Readme.md) for more information on how to work it. Code in the [*Insta.py*](AutoInsta/Insta.py) file.  
 - #### **BarChartRace** 
-   Create animated Bar Chart races to analyze over time periods. I used a NYPD dataset Code in the [*NYPDShooting.py*](AutoInsta/NYPDShooting.py) and [*UrbanPopulation.py*](AutoInsta/UrbanPopulation.py) files.  
+   Create animated Bar Chart races to analyze over time periods. Used Offical NYPD dataset and one of the default dataset of population present in the BarChartRace pacakge. Code in the [*NYPDShooting.py*](BarChartRace/NYPDShooting.py) and [*UrbanPopulation.py*](BarChartRace/UrbanPopulation.py) files.  
